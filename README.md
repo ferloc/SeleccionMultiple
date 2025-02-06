@@ -23,6 +23,6 @@ La base de datos cuenta con la siguiente información:
 
 
 Enlaces
-- [Reporte en formato HTML](A1.1%20641675.html)
-- [Reporte en formato ipynb](A1.1%20641675.ipynb)
-- [Base de datos](ExcObesidad.csv)
+- [Reporte en formato HTML](A1.4_641675.html)
+- [Reporte en formato ipynb](A1.4_641675.ipynb)
+- [Base de datos](Vino%20Tinto.csv)
